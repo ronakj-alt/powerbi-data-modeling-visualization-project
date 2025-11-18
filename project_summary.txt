@@ -1,0 +1,7 @@
+Power BI Data Modeling & Visualization Project
+
+This project demonstrates:
+- End-to-end data preparation, modeling, and dashboard creation.
+- DAX measures, KPIs, interactive visuals, and drill-through functionality.
+- Power Query–based ETL and data cleaning.
+- Cloud deployment via Power BI Service with scheduled refresh.
