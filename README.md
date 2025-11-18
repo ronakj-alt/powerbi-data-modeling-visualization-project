@@ -14,15 +14,15 @@ The dashboard was also published to **Power BI Service** for cloud-based reporti
 ---
 
 ## 📁 Files Included
-- `Project_Dashboard.pbix` *(Upload your actual PBIX file here)*
-- `screenshots/` *(Add screenshots of your visuals here)*
+- `Project_Dashboard.pbix` 
+- `screenshots/` 
 - `project_summary.txt`
 
 ---
 
 ## 🚀 Tech Stack
 - Power BI Desktop  
-- Power Query (M Language)  
+- Power Query 
 - DAX  
 - Power BI Service  
 
@@ -38,7 +38,8 @@ The dashboard was also published to **Power BI Service** for cloud-based reporti
 ## 🔗 Optional
 If your report is published publicly, you can add the link here:
 ```
-Power BI Service Report Link (if available)
+Power BI Service Report Link
+Video Attached
 ```
 
 ---
